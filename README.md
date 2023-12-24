@@ -1,4 +1,4 @@
-# Uberhack_round1
+# CogniVision Hub @Uberhackround1
 
 
 # CREATE AN APP USING NLP AND COMPUTER VISION 
