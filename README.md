@@ -1,4 +1,4 @@
-# CogniVision Hub @Uberhackround1
+# CogniVision Hub @Stemhackround1
 
 ## FRONTEND
 Run app.py using flask 
